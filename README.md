@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Beatriz Orsi Del Aguila</h1>
-  <h3>Full Stack Developer | Python & JavaScript Specialist</h3>
+  <h3>Full Stack Developer | Aspiring Data Scientist</h3>
 
   <!-- Professional Contact Links -->
   <p align="center">
@@ -18,6 +18,7 @@
     </a>
   </p>
 </div>
+
 
 <!-- Professional Summary -->
 <div>
