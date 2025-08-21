@@ -38,8 +38,12 @@
   <p>
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white" alt="SFML"/>
   </p>
   
   <h3>Tools & Platforms</h3>
@@ -65,8 +69,6 @@
   <h2>📈 Development Activity</h2>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=beatrukzz&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=beatrukzz&theme=dark&hide_border=true" alt="Coding Activity"/>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrukzz&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
   </p>
